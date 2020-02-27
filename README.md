@@ -1,7 +1,9 @@
 # GEN Scrapper
 
-This script need a `.env` file with __IDENTIFIER__ and __PASSWORD__.
+__Required:__ Node.js
 
-Run with `npm start`
+- Create a `.env` file with your __IDENTIFIER__ and __PASSWORD__ values.
 
-Output: screenshot.png
+- Run with `npm start`
+
+_Output:_ screenshot.png
